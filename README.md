@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Master-Grimm
-- These are some of my projects
+👋 Hi, I’m @MasterGrimm
+These are some of my projects
